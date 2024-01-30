@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>budee.io</span>,
-  docsRepositoryBase: 'https://github.com/nasimstg/budee.io',
+  docsRepositoryBase: 'https://github.com/nasimstg/docs.budee.io/tree/main',
   footer: {
     text: 'budee.io',
   },
