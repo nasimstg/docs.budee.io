@@ -1,23 +1,32 @@
-# Nextra Docs Template 
+# BUDEE.IO
+ 
+[budee.io](https://budee.io) is one of the best digital marketing PPC budget management software. Take control of your PPC spending with [budee.io](https://budee.io) and get the most out of your budget.
+## What is [budee.io](https://budee.io)?
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+A **simple**, **powerful** and **flexible** software to Keep your PPC budget on track with our automated budget pacing reporting. Set up custom budget cycles, easily track rollover amounts, and automatically pause campaigns or reduce their spend when budgets are hit. Our software seamlessly integrates with Google Ads, Microsoft Ads, and Facebook Ads, providing a complete picture of your PPC performance. Stay informed, avoid overspending, and maximize your ROI with our powerful reporting and automation features.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+## What are the benifits of [budee.io](https://budee.io)?
+    - ### **Save Time:** 
+        Automating your budget allocation process can significantly reduce the time you spend on budget management, freeing up time for more strategic initiatives.
+    - ### **Save Money:** 
+        Our software will help you avoid overspending and wasted ad spend, saving you money and improving your ROI.
+    - **Improve Performance:** Our software will help you improve your PPC performance by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Increase ROI:**
+         Our software will help you increase your ROI by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Reduce Stress:**
+         Our software will help you reduce your stress by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Improve ROI:**
+         Our software will help you improve your ROI by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Increase Revenue:**
+         Our software will help you increase your revenue by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Reduce Wasted Spend:** 
+        Our software will help you reduce your wasted spend by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Increase Conversions:**
+         Our software will help you increase your conversions by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Increase Leads:**
+         Our software will help you increase your leads by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Increase Sales:**
+         Our software will help you increase your sales by ensuring that your campaigns are always running at optimal budget levels.
+    - ### **Increase Revenue:**
+         Our software will help you increase your revenue by ensuring that your campaigns are always running at optimal budget levels.
+   
